@@ -1,0 +1,53 @@
+Log file for client Sems
+Created on Friday January 06 2023 01:39:48 PM
+[Fri Jan 06 13:39:48 2023]: Enter your name: 
+[Fri Jan 06 13:39:48 2023]: Sems
+[Fri Jan 06 13:39:48 2023]: Starting Client...
+[Fri Jan 06 13:39:48 2023]: Connecting...
+[Fri Jan 06 13:39:48 2023]: Successfully Connected
+[Fri Jan 06 13:39:48 2023]:
+1) client: name: Sems, Socket: 212, Ip: 127.0.0.1
+[Fri Jan 06 13:39:48 2023]: --To send a message, use this format: MESG|[receiver name]->message
+--To print a list of connected clients: CONN
+--To disconnect: GONE
+
+[Fri Jan 06 13:39:48 2023]:
+
+****Client Esra Joined the chat****
+
+[Fri Jan 06 13:39:48 2023]:
+
+****Client Seher Joined the chat****
+
+[Fri Jan 06 13:39:48 2023]:
+! Message from [Seher] to Sems: 0rAQBc8Wsa1xVP
+[Fri Jan 06 13:39:48 2023]: 0rAQBc8Wsa1xVP
+[Fri Jan 06 13:39:48 2023]: ERROR DETECTED, INCORRECT MESSAGE ARRIVED
+Sending MERR command to server...
+[Fri Jan 06 13:39:48 2023]:
+***RESEND CORRECTED MESSAGE**** Message from [Seher] to Sems: 1|Hey Sems:)|1
+[Fri Jan 06 13:39:48 2023]: MESG|Seher->Hey there Seher, welcome!
+[Fri Jan 06 13:39:48 2023]:
+! Message from [Esra] to Sems: 0rAQBc8Wsa1xVPfvJcrgRYwTiizs2trQF69AzBla
+[Fri Jan 06 13:39:48 2023]: 0rAQBc8Wsa1xVPfvJcrgRYwTiizs2trQF69AzBla
+[Fri Jan 06 13:39:48 2023]: ERROR DETECTED, INCORRECT MESSAGE ARRIVED
+Sending MERR command to server...
+[Fri Jan 06 13:39:48 2023]:
+***RESEND CORRECTED MESSAGE**** Message from [Esra] to Sems: 1|Welcome Sems :D, i am leaving now :(|1
+[Fri Jan 06 13:39:48 2023]: MESG|Esra->Oh okay, see you later !
+[Fri Jan 06 13:39:48 2023]:
+**Client #1 name: Esra Disconnected
+[Fri Jan 06 13:39:48 2023]:
+! Message from [Seher] to Sems: 0vJcrgRYwTiizs2trQF69AzBlax3CF3EDNhm
+[Fri Jan 06 13:39:48 2023]: 0vJcrgRYwTiizs2trQF69AzBlax3CF3EDNhm
+[Fri Jan 06 13:39:48 2023]: ERROR DETECTED, INCORRECT MESSAGE ARRIVED
+Sending MERR command to server...
+[Fri Jan 06 13:39:48 2023]:
+***RESEND CORRECTED MESSAGE**** Message from [Seher] to Sems: 1|i am also leaving Sems, see ya !|1
+[Fri Jan 06 13:39:48 2023]: MESG|Seher->Okay, see ya my friend
+[Fri Jan 06 13:39:48 2023]:
+**Client #2 name: Seher Disconnected
+[Fri Jan 06 13:39:48 2023]: GONE
+[Fri Jan 06 13:39:48 2023]:
+Disconnect
+[Fri Jan 06 13:39:48 2023]: Client is Disconnected

@@ -1,0 +1,37 @@
+Log file for client Ahmet
+Created on Saturday January 07 2023 12:39:25 PM
+[Sat Jan 07 12:39:25 2023]: Enter your name: 
+[Sat Jan 07 12:39:25 2023]: Ahmet
+[Sat Jan 07 12:39:25 2023]: Starting Client...
+[Sat Jan 07 12:39:25 2023]: Connecting...
+[Sat Jan 07 12:39:25 2023]: Successfully Connected
+[Sat Jan 07 12:39:25 2023]:
+1) client: name: Ahmet, Socket: 164, Ip: 192.168.43.125
+[Sat Jan 07 12:39:25 2023]: --To send a message, use this format: MESG|[receiver name]->message
+--To print a list of connected clients: CONN
+--To disconnect: GONE
+
+[Sat Jan 07 12:39:25 2023]:
+
+****Client Selim Joined the chat****
+
+[Sat Jan 07 12:39:25 2023]:
+! Message from [Selim] to Ahmet: 0rAQBc8Wsa1xVPfvJ
+[Sat Jan 07 12:39:25 2023]: 0rAQBc8Wsa1xVPfvJ
+[Sat Jan 07 12:39:25 2023]: ERROR DETECTED, INCORRECT MESSAGE ARRIVED
+Sending MERR command to server...
+[Sat Jan 07 12:39:25 2023]:
+***RESEND CORRECTED MESSAGE**** Message from [Selim] to Ahmet: 1|Merhaba Ahmet|1
+[Sat Jan 07 12:39:25 2023]: MESG|Selim->Merhaba Selim :) nasilsin?
+[Sat Jan 07 12:39:25 2023]:
+! Message from [Selim] to Ahmet: 0|iyiyim, ama gitmem lazim, gorusuruz!|0
+[Sat Jan 07 12:39:25 2023]: 0|iyiyim, ama gitmem lazim, gorusuruz!|0
+[Sat Jan 07 12:39:25 2023]: NO ERROR DETECTED, MESSAGE ARRIVED IS CORRECT
+
+[Sat Jan 07 12:39:25 2023]: MESG|Selim->Tamam :)
+[Sat Jan 07 12:39:25 2023]:
+**Client #1 name: Selim Disconnected
+[Sat Jan 07 12:39:25 2023]: GONE
+[Sat Jan 07 12:39:25 2023]:
+Disconnect
+[Sat Jan 07 12:39:25 2023]: Client is Disconnected

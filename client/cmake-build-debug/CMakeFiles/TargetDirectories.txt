@@ -1,0 +1,4 @@
+C:/Users/isc/Desktop/2016710213209-DC/client/cmake-build-debug/CMakeFiles/client1.dir
+C:/Users/isc/Desktop/2016710213209-DC/client/cmake-build-debug/CMakeFiles/client.dir
+C:/Users/isc/Desktop/2016710213209-DC/client/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/isc/Desktop/2016710213209-DC/client/cmake-build-debug/CMakeFiles/rebuild_cache.dir

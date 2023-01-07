@@ -1,0 +1,31 @@
+Log file for client Esra
+Created on Friday January 06 2023 01:41:14 PM
+[Fri Jan 06 13:41:14 2023]: Enter your name: 
+[Fri Jan 06 13:41:14 2023]: Esra
+[Fri Jan 06 13:41:14 2023]: Starting Client...
+[Fri Jan 06 13:41:14 2023]: Connecting...
+[Fri Jan 06 13:41:14 2023]: Successfully Connected
+[Fri Jan 06 13:41:14 2023]:
+1) client: name: Sems, Socket: 212, Ip: 127.0.0.1
+[Fri Jan 06 13:41:14 2023]: --To send a message, use this format: MESG|[receiver name]->message
+--To print a list of connected clients: CONN
+--To disconnect: GONE
+
+[Fri Jan 06 13:41:14 2023]:
+2) client: name: Esra, Socket: 232, Ip: 127.0.0.1
+[Fri Jan 06 13:41:14 2023]:
+
+****Client Seher Joined the chat****
+
+[Fri Jan 06 13:41:14 2023]: MESG|Sems->Welcome Sems :D, i am leaving now :(
+[Fri Jan 06 13:41:14 2023]:
+! Message from [Sems] to Esra: 0rQF69AzBlax3CF3EDNhm3soLBPh
+[Fri Jan 06 13:41:14 2023]: 0rQF69AzBlax3CF3EDNhm3soLBPh
+[Fri Jan 06 13:41:14 2023]: ERROR DETECTED, INCORRECT MESSAGE ARRIVED
+Sending MERR command to server...
+[Fri Jan 06 13:41:14 2023]:
+***RESEND CORRECTED MESSAGE**** Message from [Sems] to Esra: 1|Oh okay, see you later !|1
+[Fri Jan 06 13:41:14 2023]: GONE
+[Fri Jan 06 13:41:14 2023]:
+Disconnect
+[Fri Jan 06 13:41:14 2023]: Client is Disconnected
